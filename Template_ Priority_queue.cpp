@@ -58,7 +58,7 @@ public:
 					T temp = max_(v[t_idx * 2], v[t_idx * 2 + 1]);
 					b_idx = v[t_idx * 2] == temp ? t_idx * 2 : t_idx * 2 + 1;
 				}
-				else b_idx = t_idx * 2;
+				else break;
 			}
 			else b_idx = t_idx * 2;
 			if (v[t_idx] < v[b_idx])
