@@ -1,6 +1,4 @@
 # Algorithm
 Baek,Yun-su
-
--Algorithm1
-
--Algorithm2
+PS: Problem Solving
+Template: data structure,algorithm, and so forth
